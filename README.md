@@ -1,2 +1,2 @@
 # LanguageBank
- English and Swedish Expressions Reminder
+ English and Swedish Expression Reminder
